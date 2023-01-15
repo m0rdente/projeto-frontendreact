@@ -1,0 +1,14 @@
+.footer {
+    padding: 1em;
+    color: #fff;
+    background-color: rgb(19, 19, 19);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social_list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
